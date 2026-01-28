@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hobbify</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_hobby">My Hobby</string>
+    <string name="daily_progress">Daily progress</string>
+    <string name="days_list">Daily challenge days list</string>
+    <string name="status_icon">Day status icon</string>
+
+</resources>
